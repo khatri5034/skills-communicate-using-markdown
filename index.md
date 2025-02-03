@@ -10,3 +10,9 @@ public class HelloWorld {
         System.out.println("Hello!, this is Kiran Khatri.");
     }
 }
+```
+- [x] Add heading
+- [x] Add image
+- [x] Add list items
+- [ ] Commit changes
+```
